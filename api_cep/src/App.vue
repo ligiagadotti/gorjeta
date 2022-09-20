@@ -36,3 +36,4 @@ export default {
     <input name="estado" type="text" v-model="endereco.uf" />
   </form>
 </template>
+<style></style>
